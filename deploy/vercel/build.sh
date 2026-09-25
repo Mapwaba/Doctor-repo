@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Vercel build step shared by the Patient, Doctor and Admin frontends.
+# Vercel build step for this frontend (the same script is used in the
+# Patient, Doctor and Admin repos).
 # Run from the frontend's folder (its Vercel "Root Directory"):
 #   bash ../../../deploy/vercel/build.sh LandaDoc.Patient.csproj
 #
